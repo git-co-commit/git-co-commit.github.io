@@ -1,0 +1,11 @@
+.Main {
+	width: 45px;
+}
+
+.Line {
+	display: block;
+	height: 4px;
+	margin: 7px;
+	background-color: white;
+	color: white;
+}

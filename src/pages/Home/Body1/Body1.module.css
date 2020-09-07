@@ -1,0 +1,92 @@
+.Body {
+	display: flex;
+	justify-content: space-around;
+	padding: 50px;
+}
+
+.Content {
+	width: 50%;
+	max-width: 450px;
+}
+
+.Heading {
+	font-size: 28px;
+	font-weight: bold;
+}
+
+.Para {
+	font-weight: lighter;
+	letter-spacing: 1.2px;
+	font-size: 18px;
+	margin-top: 20px;
+	margin-bottom: 35px;
+}
+
+.Btn {
+	padding: 10px 20px;
+	margin-right: 10px;
+	font-size: 16px;
+	border: 2px solid #000b6f;
+	border-radius: 5px;
+	background: linear-gradient(to right, #000b6f 50%, white 50%);
+	background-size: 200% 100%;
+	transition: all 0.3s ease-in-out;
+	text-decoration: none;
+	text-align: center;
+}
+
+.Start {
+	background-position: bottom left;
+	color: white;
+}
+
+.Download {
+	background-position: bottom right;
+	color: #000b6f;
+}
+
+.Start:hover {
+	background-position: bottom right;
+	color: #000b6f;
+}
+
+.Download:hover {
+	background-position: bottom left;
+	color: white;
+}
+
+.Image {
+	max-width: 50%;
+	text-align: center;
+}
+
+.Logo {
+	height: 200px;
+}
+
+@media (max-width: 700px) {
+	.Body {
+		padding: 50px 30px;
+	}
+	.Image {
+		display: none;
+	}
+	.Content {
+		width: 100%;
+	}
+}
+
+@media (max-width: 400px) {
+	.Heading {
+		font-size: 22px;
+	}
+
+	.Para {
+		font-size: 16px;
+	}
+
+	.Btn {
+		display: block;
+		margin-bottom: 5px;
+	}
+}

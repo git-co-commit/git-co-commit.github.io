@@ -1,0 +1,94 @@
+.Navbar {
+	padding: 0 10px 0 0;
+	display: flex;
+	height: 70px;
+	background-color: #000b6f;
+	justify-content: space-between;
+}
+
+.Nav {
+	display: flex;
+	list-style: none;
+	align-items: center;
+	justify-content: center;
+}
+
+.NavItem {
+	padding: 5px 10px;
+}
+
+.NavLink {
+	text-decoration: none;
+	color: white;
+}
+
+.Brand {
+	font-size: 24px;
+}
+
+.Logo {
+	height: 50px;
+}
+
+.Github {
+	height: 40px;
+	border-radius: 50%;
+}
+
+.Npm {
+	height: 40px;
+	border-radius: 5px;
+}
+
+.Btn_cta .NavLink {
+	background: linear-gradient(to right, white 50%, blue 50%);
+	background-size: 200% 100%;
+	background-position: bottom left;
+	color: #000b6f;
+	font-size: 18px;
+	padding: 10px 25px;
+	border: 2px solid #000b6f;
+	border-radius: 5px;
+	transition: all 0.5s ease-in-out;
+}
+
+.Btn_cta .NavLink:hover {
+	background-position: bottom right;
+	color: white;
+}
+
+.Sidebar {
+	display: none;
+}
+
+@media (max-width: 800px) {
+	.Sidebar {
+		display: block;
+	}
+}
+
+@media (max-width: 620px) {
+	.Navbar {
+		height: 60px;
+		padding: 0;
+	}
+	.Brand {
+		font-size: 20px;
+	}
+	.Logo {
+		height: 40px;
+	}
+	.Github,
+	.Npm {
+		height: 35px;
+	}
+	.Btn_cta {
+		display: none;
+	}
+}
+
+@media (max-width: 400px) {
+	.NavRight {
+		display: none;
+	}
+}

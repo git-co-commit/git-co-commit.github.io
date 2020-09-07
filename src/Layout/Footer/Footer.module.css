@@ -1,0 +1,89 @@
+.MainFooter {
+	display: flex;
+	flex-direction: column;
+	background-color: #000b6f;
+	color: white;
+	justify-content: center;
+	align-items: center;
+}
+
+.MainCompany {
+	display: none;
+}
+
+.Footer {
+	display: flex;
+	width: 100%;
+	align-items: center;
+	justify-content: space-around;
+	height: 170px;
+}
+
+.Docs {
+	display: flex;
+	flex-direction: column;
+	list-style: none;
+}
+
+.Head {
+	color: #ababab;
+	padding: 15px 10px;
+	font-size: 20px;
+}
+
+.Item {
+	padding: 10px;
+	font-size: 18px;
+}
+
+.Link {
+	text-decoration: none;
+	color: white;
+}
+
+.References {
+	display: flex;
+	flex-direction: column;
+	list-style: none;
+}
+
+.GokulnathP {
+	height: 100px;
+}
+
+.Github,
+.Npm {
+	height: 40px;
+	padding: 5px 10px;
+}
+
+.Github {
+	border-radius: 50%;
+}
+
+.Npm {
+	border-radius: 5px;
+}
+
+.References .Head {
+	padding: 5px 15px;
+}
+
+.References .Item {
+	padding: 5px;
+}
+
+.References .Link {
+	display: flex;
+	align-items: center;
+}
+
+@media (max-width: 400px) {
+	.Company {
+		display: none;
+	}
+	.MainCompany {
+		display: block;
+		padding: 10px;
+	}
+}
