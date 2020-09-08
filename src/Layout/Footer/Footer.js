@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 import classes from './Footer.module.css';
 
@@ -17,8 +18,12 @@ const Footer = () => {
                 </div>
                 <ul className={classes.Docs}>
                     <li className={classes.Head}>Docs</li>
-                    <li className={classes.Item}>User Guide</li>
-                    <li className={classes.Item}>References</li>
+                    <li className={classes.Item}>
+                        <Link className={classes.Link} to='/get-started'>User Guide</Link>
+                    </li>
+                    <li className={classes.Item}>
+                        <Link className={classes.Link} to='/get-started'>References</Link>
+                    </li>
                 </ul>
                 <ul className={classes.References}>
                     <li className={classes.Head}>Repositories</li>

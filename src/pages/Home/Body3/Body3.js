@@ -8,7 +8,7 @@ const Body3 = () => {
         <div className={classes.Body}>
             <h1 className={classes.Title}>Install Git Co Commit Today</h1>
             <h2 className={classes.SubTitle}>It's free and open source</h2>
-            <Link className={classes.Button} to='/'>Get started</Link>
+            <Link className={classes.Button} to='/get-started'>Get started</Link>
         </div>
     );
 }

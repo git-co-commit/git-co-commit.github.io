@@ -1,0 +1,27 @@
+.Sidebar {
+	width: 250px;
+	background-color: #ebeaea;
+	padding: 20px 10px;
+	height: 100%;
+}
+
+.Head,
+.Body {
+	text-decoration: none;
+	display: block;
+	color: black;
+	font-size: 16px;
+	padding: 10px;
+	font-weight: lighter;
+}
+
+.Head {
+	font-size: 20px;
+	padding: 20px 10px;
+	font-weight: bold;
+}
+
+.Body:hover {
+	color: #009790;
+	text-decoration: underline;
+}
