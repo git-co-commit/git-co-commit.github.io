@@ -1,0 +1,53 @@
+.Body {
+	text-align: center;
+	max-width: 900px;
+	margin: 50px auto;
+	background-color: #e7e7e7;
+	padding: 50px;
+	line-height: 55px;
+}
+
+.Button {
+	background-color: #000b6f;
+	color: white;
+	padding: 10px 30px;
+	border: 2px solid blue;
+	text-decoration: none;
+}
+
+.Button:hover {
+	background-color: blue;
+}
+
+@media (max-width: 925px) {
+	.Body {
+		margin: 50px 20px;
+	}
+}
+
+@media (max-width: 600px) {
+	.Body {
+		padding: 20px 0;
+		line-height: 50px;
+	}
+	.Title {
+		font-size: 24px;
+	}
+	.SubTitle {
+		font-size: 20px;
+	}
+}
+
+@media (max-width: 400px) {
+	.Body {
+		margin: 50px 10px;
+		padding: 10px 0;
+		line-height: 45px;
+	}
+	.Title {
+		font-size: 19px;
+	}
+	.SubTitle {
+		font-size: 17px;
+	}
+}
