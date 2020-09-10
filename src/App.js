@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 
 import Navbar from './Layout/Navbar/Navbar';
 import Footer from './Layout/Footer/Footer';
@@ -10,7 +10,7 @@ import References from './pages/References/References';
 
 const App = () => {
   return (
-    <Router basename="/">
+    <Router>
       <Navbar />
       <Switch>
         <Route path='/get-started' component={GetStarted} />
