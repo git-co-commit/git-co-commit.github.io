@@ -22,7 +22,7 @@ const GetStarted = () => {
             <div className={classes.Content}>
                 <Switch>
                     <Route exact path='/get-started/what-is-pair-programming' component={Doc1} />
-                    <Route exact path='/get-started/why-we-need-pair-programming' component={Doc2} />
+                    <Route exact path='/get-started/why-do-we-need-pair-programming' component={Doc2} />
                     <Route exact path='/get-started/what-is-git-co-commit' component={Doc3} />
                     <Route exact path='/get-started/installing-node-js' component={Doc4} />
                     <Route exact path='/get-started/installing-using-git-co-commit' component={Doc5} />

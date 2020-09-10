@@ -7,11 +7,11 @@ import classes from './Docs.module.css';
 const Doc1 = () => {
     return (
         <>
-            <Buttons nextLink='/get-started/why-we-need-pair-programming' />
+            <Buttons nextLink='/get-started/why-do-we-need-pair-programming' />
             <div className={classes.Content}>
                 <h1>What is pair programming?</h1>
             </div>
-            <Buttons nextLink='/get-started/why-we-need-pair-programming' />
+            <Buttons nextLink='/get-started/why-do-we-need-pair-programming' />
         </>
     )
 }

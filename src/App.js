@@ -10,7 +10,7 @@ import References from './pages/References/References';
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/">
       <Navbar />
       <Switch>
         <Route path='/get-started' component={GetStarted} />
