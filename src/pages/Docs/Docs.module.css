@@ -10,6 +10,11 @@
 	font-weight: bolder;
 }
 
+.SubTitle {
+	font-size: 22px;
+	padding: 10px;
+}
+
 .Para {
 	font-size: 18px;
 	font-weight: lighter;
@@ -26,13 +31,37 @@
 	margin-left: 5px;
 }
 
+.LenImage {
+	width: 100%;
+	max-width: 800px;
+	margin-left: 5px;
+}
+
+.CmdImage {
+	width: 100%;
+	max-width: 500px;
+	margin-left: 5px;
+}
+
 .ImageBorder {
 	border: 1px solid black;
 	border-radius: 5px;
 }
+
+.Code {
+	display: block;
+	font-size: 16px;
+	padding: 15px 25px;
+	margin: 10px;
+	background: rgba(0, 0, 0, 0.15);
+}
+
 @media (max-width: 450px) {
 	.Title {
 		font-size: 24px;
+	}
+	.SubTitle {
+		font-size: 20px;
 	}
 	.Para {
 		font-size: 17px;
