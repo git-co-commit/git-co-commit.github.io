@@ -1,27 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.71e23bc1.chunk.css",
-    "main.js": "/static/js/main.fa2fcfca.chunk.js",
-    "main.js.map": "/static/js/main.fa2fcfca.chunk.js.map",
+    "main.css": "/static/css/main.0694093b.chunk.css",
+    "main.js": "/static/js/main.b38e5479.chunk.js",
+    "main.js.map": "/static/js/main.b38e5479.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bcf30ae1.js",
     "runtime-main.js.map": "/static/js/runtime-main.bcf30ae1.js.map",
-    "static/js/2.ce756610.chunk.js": "/static/js/2.ce756610.chunk.js",
-    "static/js/2.ce756610.chunk.js.map": "/static/js/2.ce756610.chunk.js.map",
+    "static/js/2.ff54f208.chunk.js": "/static/js/2.ff54f208.chunk.js",
+    "static/js/2.ff54f208.chunk.js.map": "/static/js/2.ff54f208.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.97316a2dec0f08044c210850b68a8075.js": "/precache-manifest.97316a2dec0f08044c210850b68a8075.js",
+    "precache-manifest.92f5505101565fda95184dce7502f10b.js": "/precache-manifest.92f5505101565fda95184dce7502f10b.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.71e23bc1.chunk.css.map": "/static/css/main.71e23bc1.chunk.css.map",
-    "static/js/2.ce756610.chunk.js.LICENSE.txt": "/static/js/2.ce756610.chunk.js.LICENSE.txt",
+    "static/css/main.0694093b.chunk.css.map": "/static/css/main.0694093b.chunk.css.map",
+    "static/js/2.ff54f208.chunk.js.LICENSE.txt": "/static/js/2.ff54f208.chunk.js.LICENSE.txt",
+    "static/media/git-co-commit-after-gitpair.png": "/static/media/git-co-commit-after-gitpair.5229c0c5.png",
+    "static/media/git-co-commit-before-gitpair.png": "/static/media/git-co-commit-before-gitpair.2df2948c.png",
+    "static/media/git-co-commit-node-setup.png": "/static/media/git-co-commit-node-setup.027b1902.png",
+    "static/media/git-co-commit-npm-git.png": "/static/media/git-co-commit-npm-git.d36f64b1.png",
+    "static/media/git-co-commit-package-json.png": "/static/media/git-co-commit-package-json.33bd0b0c.png",
     "static/media/git-co-commit-pairing-role.png": "/static/media/git-co-commit-pairing-role.67ae6f96.png",
     "static/media/git-co-commit-pairing.jpeg": "/static/media/git-co-commit-pairing.f8e21cee.jpeg",
+    "static/media/git-co-commit-use.png": "/static/media/git-co-commit-use.3621d2e9.png",
     "static/media/gitcocommit.png": "/static/media/gitcocommit.0bc1ca21.png",
     "static/media/gokulnathp.png": "/static/media/gokulnathp.a74d3772.png",
     "static/media/npm.jpg": "/static/media/npm.1ffbf7c7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.bcf30ae1.js",
-    "static/js/2.ce756610.chunk.js",
-    "static/css/main.71e23bc1.chunk.css",
-    "static/js/main.fa2fcfca.chunk.js"
+    "static/js/2.ff54f208.chunk.js",
+    "static/css/main.0694093b.chunk.css",
+    "static/js/main.b38e5479.chunk.js"
   ]
 }
