@@ -11,8 +11,8 @@
 	background-color: #000b6f;
 	color: white;
 	padding: 10px 30px;
-	border: 2px solid blue;
 	text-decoration: none;
+	border-radius: 5px;
 }
 
 .Button:hover {

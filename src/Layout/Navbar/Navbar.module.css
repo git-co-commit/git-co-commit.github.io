@@ -31,12 +31,12 @@
 }
 
 .Github {
-	height: 40px;
+	height: 30px;
 	border-radius: 50%;
 }
 
 .Npm {
-	height: 40px;
+	height: 30px;
 	border-radius: 5px;
 }
 
@@ -80,7 +80,7 @@
 	}
 	.Github,
 	.Npm {
-		height: 35px;
+		height: 25px;
 	}
 	.Btn_cta {
 		display: none;

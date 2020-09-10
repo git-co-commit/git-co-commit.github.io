@@ -1,0 +1,15 @@
+.Btns {
+	display: flex;
+	justify-content: space-between;
+	padding: 20px;
+}
+
+.Link {
+	text-decoration: none;
+	color: #1da7af;
+	font-size: 18px;
+}
+
+.Link:hover {
+	text-decoration: underline;
+}
