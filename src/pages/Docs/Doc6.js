@@ -3,9 +3,9 @@ import { Link } from 'react-router-dom';
 
 import Buttons from '../../Layout/Buttons/Buttons';
 
-import NodeSetup from '../../img/git-co-commit-node-setup.png';
-import PackageJson from '../../img/git-co-commit-package-json.png';
-import NpmGit from '../../img/git-co-commit-npm-git.png';
+import NodeSetup from '../../img/git-co-commit-node-setup.webp';
+import PackageJson from '../../img/git-co-commit-package-json.webp';
+import NpmGit from '../../img/git-co-commit-npm-git.webp';
 
 import classes from './Docs.module.css';
 

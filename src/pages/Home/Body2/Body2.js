@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-import Github from '../../../img/github.png';
+import Github from '../../../img/github.webp';
 import class1 from '../Body1/Body1.module.css';
 import class2 from './Body2.module.css';
 

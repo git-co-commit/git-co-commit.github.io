@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-import Logo from '../../../img/gitcocommit.png';
+import Logo from '../../../img/gitcocommit.webp';
 import classes from './Body1.module.css';
 
 const Body1 = () => {

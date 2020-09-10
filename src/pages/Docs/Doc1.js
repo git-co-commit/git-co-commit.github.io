@@ -3,7 +3,7 @@ import React from 'react';
 import Buttons from '../../Layout/Buttons/Buttons';
 
 import classes from './Docs.module.css';
-import PairRole from '../../img/git-co-commit-pairing-role.png';
+import PairRole from '../../img/git-co-commit-pairing-role.webp';
 
 const Doc1 = () => {
     return (

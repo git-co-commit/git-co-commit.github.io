@@ -3,9 +3,9 @@ import { Link } from 'react-router-dom';
 
 import classes from './Navbar.module.css';
 
-import Logo from '../../img/gitcocommit.png';
-import Github from '../../img/github.png';
-import Npm from '../../img/npm.jpg'
+import Logo from '../../img/gitcocommit.webp';
+import Github from '../../img/github.webp';
+import Npm from '../../img/npm.webp'
 
 import Sidebar from '../Sidebar/Sidebar';
 import SidebarLogo from '../SidebarLogo/SidebarLogo';

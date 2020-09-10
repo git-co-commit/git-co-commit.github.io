@@ -2,8 +2,8 @@ import React from 'react';
 
 import Buttons from '../../Layout/Buttons/Buttons';
 
-import BeforePairing from '../../img/git-co-commit-before-gitpair.png';
-import AfterPairing from '../../img/git-co-commit-after-gitpair.png';
+import BeforePairing from '../../img/git-co-commit-before-gitpair.webp';
+import AfterPairing from '../../img/git-co-commit-after-gitpair.webp';
 
 import classes from './Docs.module.css';
 

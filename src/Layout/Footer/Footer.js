@@ -3,9 +3,9 @@ import { Link } from 'react-router-dom';
 
 import classes from './Footer.module.css';
 
-import GokulnathP from '../../img/gokulnathp.png';
-import Github from '../../img/github.png';
-import Npm from '../../img/npm.jpg';
+import GokulnathP from '../../img/gokulnathp.webp';
+import Github from '../../img/github.webp';
+import Npm from '../../img/npm.webp';
 
 const Footer = () => {
     return (

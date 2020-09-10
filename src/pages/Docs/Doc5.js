@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 import Buttons from '../../Layout/Buttons/Buttons';
 
-import UseGitCoCommit from '../../img/git-co-commit-use.png'
+import UseGitCoCommit from '../../img/git-co-commit-use.webp'
 
 import classes from './Docs.module.css';
 
