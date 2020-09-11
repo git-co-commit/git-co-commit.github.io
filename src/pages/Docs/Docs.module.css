@@ -15,7 +15,8 @@
 	padding: 10px;
 }
 
-.Para {
+.Para,
+.List {
 	font-size: 18px;
 	font-weight: lighter;
 	opacity: 0.95;
@@ -25,22 +26,32 @@
 	line-height: 28px;
 }
 
-.Image {
+.List {
+	text-indent: 30px;
+	padding: 5px;
+	line-height: 22px;
+}
+
+.SpecialText {
+	color: blue;
+}
+
+.Image,
+.LenImage,
+.CmdImage {
 	width: 90%;
 	max-width: 400px;
 	margin-left: 5px;
 }
 
-.LenImage {
+.LenImage,
+.CmdImage {
 	width: 100%;
 	max-width: 800px;
-	margin-left: 5px;
 }
 
 .CmdImage {
-	width: 100%;
 	max-width: 500px;
-	margin-left: 5px;
 }
 
 .ImageBorder {

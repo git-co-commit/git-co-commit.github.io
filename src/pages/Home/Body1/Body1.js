@@ -12,7 +12,7 @@ const Body1 = () => {
                 <p className={classes.Para}>Install git-co-commit package to use just a single commit to add all the team members that worked in the project as co-authors.</p>
                 <div className={classes.Btns}>
                     <Link to='/get-started' className={[classes.Btn, classes.Start].join(' ')}>Get started</Link>
-                    <Link to='/' className={[classes.Btn, classes.Download].join(' ')}>Download</Link>
+                    <Link to='/get-started/installing-using-git-co-commit' className={[classes.Btn, classes.Download].join(' ')}>Download</Link>
                 </div>
             </div>
             <div className={classes.Image}>
