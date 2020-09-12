@@ -14,8 +14,8 @@ const Body2 = () => {
     return (
         <div className={classes.Body}>
             <div className={classes.Content}>
-                <h1 className={classes.Heading}>Collabrate</h1>
-                <p className={classes.Para}>Want to collabrate with code and improve the package, complete documentation of of code is available. Click below buttons to view documentation or start improving</p>
+                <h1 className={classes.Heading}>Collaborate</h1>
+                <p className={classes.Para}>Want to collaborate with code and improve the package? complete documentation of code is available. Click below buttons to view documentation or start improving</p>
                 <div className={classes.Btns}>
                     <Link to='/references' className={[classes.Btn, classes.Start].join(' ')} >References</Link>
                     <a href="https://github.com/git-co-commit/git-co-commit" target="_blank" rel="noopener noreferrer" className={[classes.Btn, classes.Download].join(' ')} >
