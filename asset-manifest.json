@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.3eed527e.chunk.css",
-    "main.js": "/static/js/main.585614da.chunk.js",
-    "main.js.map": "/static/js/main.585614da.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7d5b98cf.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7d5b98cf.js.map",
+    "main.js": "/static/js/main.4e882368.chunk.js",
+    "main.js.map": "/static/js/main.4e882368.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.64d70b23.js",
+    "runtime-main.js.map": "/static/js/runtime-main.64d70b23.js.map",
     "static/js/2.82852455.chunk.js": "/static/js/2.82852455.chunk.js",
     "static/js/2.82852455.chunk.js.map": "/static/js/2.82852455.chunk.js.map",
     "static/css/3.db2d185d.chunk.css": "/static/css/3.db2d185d.chunk.css",
-    "static/js/3.6d374546.chunk.js": "/static/js/3.6d374546.chunk.js",
-    "static/js/3.6d374546.chunk.js.map": "/static/js/3.6d374546.chunk.js.map",
+    "static/js/3.6ac80e2b.chunk.js": "/static/js/3.6ac80e2b.chunk.js",
+    "static/js/3.6ac80e2b.chunk.js.map": "/static/js/3.6ac80e2b.chunk.js.map",
     "static/css/4.db2d185d.chunk.css": "/static/css/4.db2d185d.chunk.css",
-    "static/js/4.fd0e942b.chunk.js": "/static/js/4.fd0e942b.chunk.js",
-    "static/js/4.fd0e942b.chunk.js.map": "/static/js/4.fd0e942b.chunk.js.map",
+    "static/js/4.37c91c0c.chunk.js": "/static/js/4.37c91c0c.chunk.js",
+    "static/js/4.37c91c0c.chunk.js.map": "/static/js/4.37c91c0c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f7d4a11e255b8aa2ce36804ba54b5a12.js": "/precache-manifest.f7d4a11e255b8aa2ce36804ba54b5a12.js",
+    "precache-manifest.07593c113970a4073eeecd140148938c.js": "/precache-manifest.07593c113970a4073eeecd140148938c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.db2d185d.chunk.css.map": "/static/css/3.db2d185d.chunk.css.map",
     "static/css/4.db2d185d.chunk.css.map": "/static/css/4.db2d185d.chunk.css.map",
@@ -34,9 +34,9 @@
     "static/media/npm.webp": "/static/media/npm.99bd3e0b.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.7d5b98cf.js",
+    "static/js/runtime-main.64d70b23.js",
     "static/js/2.82852455.chunk.js",
     "static/css/main.3eed527e.chunk.css",
-    "static/js/main.585614da.chunk.js"
+    "static/js/main.4e882368.chunk.js"
   ]
 }
