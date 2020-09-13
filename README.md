@@ -1,6 +1,6 @@
-# [Git co commit](https://git-co-commit.github.io/) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/git-co-commit/git-co-commit/blob/master/LICENSE) [![npm](http://img.shields.io/badge/npm-v1.0.3-brightgreen)](https://www.npmjs.com/package/git-co-commit)
+# [Git co commit](https://git-co-commit.github.io/) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/git-co-commit/git-co-commit/blob/master/LICENSE) [![npm](http://img.shields.io/badge/npm-v1.0.5-brightgreen)](https://www.npmjs.com/package/git-co-commit)
 
-## [Documentation ![Get started](http://img.shields.io/badge/Get%20started-Docs-green)](https://git-co-commit.github.io/)
+## [Documentation ![Get started](http://img.shields.io/badge/Get%20started-Docs-green)](https://git-co-commit.github.io/#/get-started)
 
 <img alt="Logo" align="right" src="https://git-co-commit.github.io/static/media/gitcocommit.0ea576b8.webp" width="20%" />
 
@@ -20,7 +20,7 @@ Each co-author will be added to the commit message, so that they are also credit
 
 <br>
 
-## Overview
+## [Overview](https://git-co-commit.github.io/#/get-started/installing-using-git-co-commit)
 
 1. To install git co commit run the following command in the cmd or bash
 
