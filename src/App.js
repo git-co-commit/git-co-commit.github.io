@@ -5,8 +5,8 @@ import Navbar from './Layout/Navbar/Navbar';
 import Footer from './Layout/Footer/Footer';
 
 import Home from './pages/Home/Home';
-import GetStarted from './pages/GetStarted/GetStarted';
 
+const GetStarted = React.lazy(() => import('./pages/GetStarted/GetStarted'));
 const References = React.lazy(() => import('./pages/References/References'));
 
 const App = () => {
@@ -14,7 +14,16 @@ const App = () => {
     <Router>
       <Navbar />
       <Switch>
-        <Route path='/get-started' component={GetStarted} />
+        <Route
+          path='/get-started'
+          render={
+            () => (
+              <Suspense fallback={<center>Loading...</center>}>
+                <GetStarted />
+              </Suspense>
+            )
+          }
+        />
         <Route
           path='/references'
           render={
